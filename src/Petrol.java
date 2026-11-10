@@ -1,6 +1,5 @@
 public class Petrol {
     //instance variable
-    //attributes
     public String color;
     public String type;
     public double price;
