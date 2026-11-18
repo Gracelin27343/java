@@ -1,6 +1,6 @@
 public class OneTwoDimensionalArray {
     public static void main(String[] args) {
-        // 1 Dimensional Array = 1 Row and 5 columns
+        // 1 Dimensional DSA.Array = 1 Row and 5 columns
         int[] maths = { 100, 99, 88, 100, 50 };
 
         System.out.println("Maths length = " + maths.length);
@@ -10,7 +10,7 @@ public class OneTwoDimensionalArray {
             System.out.println("Element " + i + ": " + maths[i]);
         }
 
-        // 2 Dimensional Array = 5 Rows and 5 columns
+        // 2 Dimensional DSA.Array = 5 Rows and 5 columns
         int[][] marks = {
                 {50, 45, 38, 45, 80},
                 {100, 98, 65, 76, 100},

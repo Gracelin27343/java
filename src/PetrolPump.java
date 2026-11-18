@@ -9,7 +9,6 @@ public class PetrolPump {
         System.out.println(normPetrol.type + " " + normPetrol.color + " " + " " + normPetrol.price + " " + Petrol.UNIT);
         System.out.println(speedPetrol.type + " " + speedPetrol.color + " " + " " + speedPetrol.price + " " + Petrol.UNIT);
 
-
         // Access the calculatePetrol method using instance by object (without specifier)
         System.out.println("Price for 10 liters of E20 petrol: " + e2petrol.calculatePetrol(10));
         System.out.println("Price for 10 liters of NORMAL petrol: " + normPetrol.calculatePetrol(10));

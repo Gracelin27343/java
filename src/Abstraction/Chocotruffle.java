@@ -1,6 +1,7 @@
 package Abstraction;
 
 public class Chocotruffle implements Baking, Decoration,Packing,Delivery{
+
     @Override
     public void prepareBatter() {
 
